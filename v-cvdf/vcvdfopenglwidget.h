@@ -1,6 +1,6 @@
 #ifndef VCVDFOPENGLWIDGET_H
 #define VCVDFOPENGLWIDGET_H
-
+//https://www.youtube.com/watch?v=W3-SMvMa8D4&ab_channel=DuarteCorporationTutoriales
 //#include "cvdf.h"
 #include <QColor>
 #include <QOpenGLWidget>
